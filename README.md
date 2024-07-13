@@ -27,19 +27,19 @@ This repository contains the necessary files and documentation for the Campus Cy
 Here are the visual representations of the campus network topology as designed in Cisco Packet Tracer, located in the `screenshots` folder.
 
 #### Screenshot 1: CSE and EEE Departments
-![Screenshot 1](screenshots/SS1.png)
+![Screenshot 1](ScreenShots/SS1.png)
 
 #### Screenshot 2: Director and Academic Offices
-![Screenshot 2](screenshots/SS2.png)
+![Screenshot 2](ScreenShots/SS2.png)
 
 #### Screenshot 3: Student Welfare and Chief Warden Offices
-![Screenshot 3](screenshots/SS3.png)
+![Screenshot 3](ScreenShots/SS3.png)
 
 #### Screenshot 4: Library and Academic Blocks
-![Screenshot 4](screenshots/SS4.png)
+![Screenshot 4](ScreenShots/SS4.png)
 
 #### Screenshot 5: Hostels and Service Rooms
-![Screenshot 5](screenshots/SS5.png)
+![Screenshot 5](ScreenShots/SS5.png)
 
 ## Files Included in the Repository
 - **Packet Tracer Network File**: A `.pkt` file containing the simulated network topology.
