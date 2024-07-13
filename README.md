@@ -26,19 +26,19 @@ This repository contains the necessary files and documentation for the Campus Cy
 ### Campus Network Topology Screenshots
 Here are the visual representations of the campus network topology as designed in Cisco Packet Tracer, located in the `screenshots` folder.
 
-#### Screenshot 1: CSE and EEE Departments
+#### Screenshot 1: Academic Block 5
 ![Screenshot 1](ScreenShots/SS1.png)
 
-#### Screenshot 2: Director and Academic Offices
+#### Screenshot 2: Academic Block 1
 ![Screenshot 2](ScreenShots/SS2.png)
 
-#### Screenshot 3: Student Welfare and Chief Warden Offices
+#### Screenshot 3: Academic Block 4
 ![Screenshot 3](ScreenShots/SS3.png)
 
-#### Screenshot 4: Library and Academic Blocks
+#### Screenshot 4: Library and Hostel blocks
 ![Screenshot 4](ScreenShots/SS4.png)
 
-#### Screenshot 5: Hostels and Service Rooms
+#### Screenshot 5: Academic Block 2 and 3
 ![Screenshot 5](ScreenShots/SS5.png)
 
 ## Files Included in the Repository
